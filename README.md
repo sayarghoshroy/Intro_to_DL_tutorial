@@ -14,6 +14,8 @@
 
 ### Day 2
 
+> [Slides](https://docs.google.com/presentation/d/1OqxR1O218ZUkUeSNgo7c46HMHms2PyiRWw8SWFgqLF4/edit?usp=sharing)
+
 > [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sayarghoshroy/Intro_to_DL_tutorial/blob/master/regression_%26_minimization.ipynb)  Visualizing Gradient Descent - Regression and Function Minimization
 
 > [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sayarghoshroy/Intro_to_DL_tutorial/blob/master/classification.ipynb)  Example on Classification
