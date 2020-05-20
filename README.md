@@ -30,6 +30,8 @@ If this is way too basic for you, and you're really interested in Optimization A
 
 ### Day 3
 
+> [Slides](https://docs.google.com/presentation/d/10QvPP7UDaX24Spypa_KligcsCUn2ME6bHKYXbTFdiko/edit?usp=sharing)
+
 > [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sayarghoshroy/Summarization/blob/master/summarization_model.ipynb) Deep NN for Sentence Salience Prediction & how it can lead to Extractive Summarization
 
 > [Neural Machine Translation with Encoder-Decoder and Attention](https://github.com/sayarghoshroy/Neural_Machine_Translation)
