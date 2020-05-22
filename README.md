@@ -36,6 +36,8 @@ If this is way too basic for you, and you're really interested in Optimization A
 
 > [Neural Machine Translation with Encoder-Decoder and Attention](https://github.com/sayarghoshroy/Neural_Machine_Translation)
 
+> [Time Series Prediction using Recurrent Neural Networks](https://github.com/sayarghoshroy/Recurrent_NN_Modelling)
+
 Dataset for sentences with labelled scores can be downloaded from [here](https://drive.google.com/file/d/1WpydthiqqUDYsWx7KqfA0-nlQ6XNZWz6/view?usp=sharing).
 
 ---
