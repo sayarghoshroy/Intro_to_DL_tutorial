@@ -40,4 +40,6 @@ If this is way too basic for you, and you're really interested in Optimization A
 
 Dataset for sentences with labelled scores can be downloaded from [here](https://drive.google.com/file/d/1WpydthiqqUDYsWx7KqfA0-nlQ6XNZWz6/view?usp=sharing).
 
+My write-up on use of attention schemes in Neural QA can be found [here](https://docs.google.com/document/d/1K7lPsVtBF60O-dfFzQK-1oyB-uynuEokgqMQkyr5YC0/edit?usp=sharing).
+
 ---
