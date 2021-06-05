@@ -54,6 +54,9 @@ My write-up on use of attention schemes in Neural QA can be found [here](https:/
 
 ### Transformer Models
 
+
+> [Slides](https://iiitaphyd-my.sharepoint.com/:p:/g/personal/tanmay_sachan_research_iiit_ac_in/EeF2R0GIwchFshS4cpAbreYBvsNJIQ9Iw5jYcntY1LRfAg?e=3gvRIT)
+
 > [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sayarghoshroy/Intro_to_DL_tutorial/blob/master/classification_test_bench.ipynb) Simple Transfomers for basic tasks using Transformer neural networks
 
 ---
