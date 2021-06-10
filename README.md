@@ -26,6 +26,8 @@ If this is way too basic for you, and you're really interested in Optimization A
 
 > [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sayarghoshroy/Summarization/blob/master/summarization_model.ipynb) Deep NN for Sentence Salience Prediction & how it can lead to Extractive Summarization
 
+Dataset for sentences with labelled scores can be downloaded from [here](https://drive.google.com/file/d/1WpydthiqqUDYsWx7KqfA0-nlQ6XNZWz6/view?usp=sharing).
+
 ---
 
 ### Convolutional Neural Networks
@@ -45,8 +47,6 @@ If this is way too basic for you, and you're really interested in Optimization A
 > [Neural Machine Translation with Encoder-Decoder and Attention](https://github.com/sayarghoshroy/Neural_Machine_Translation)
 
 > [Time Series Prediction using Recurrent Neural Networks](https://github.com/sayarghoshroy/Recurrent_NN_Modelling)
-
-Dataset for sentences with labelled scores can be downloaded from [here](https://drive.google.com/file/d/1WpydthiqqUDYsWx7KqfA0-nlQ6XNZWz6/view?usp=sharing).
 
 My write-up on use of attention schemes in Neural QA can be found [here](https://docs.google.com/document/d/1K7lPsVtBF60O-dfFzQK-1oyB-uynuEokgqMQkyr5YC0/edit?usp=sharing).
 
