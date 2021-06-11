@@ -24,6 +24,10 @@ The dataset for the fouth example can be found [here](https://archive.ics.uci.ed
 
 If this is way too basic for you, and you're really interested in Optimization Algorithms, go [here](https://github.com/sayarghoshroy/Optimization_and_Learning).
 
+> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sayarghoshroy/Intro_to_DL_tutorial/blob/master/PCA_and_LDA.ipynb) PCA and LDA ~ Illustration
+> 
+> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sayarghoshroy/Intro_to_DL_tutorial/blob/master/sentiment_analysis.ipynb) Sentiment Analysis of Movie Reviews
+
 > [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sayarghoshroy/Summarization/blob/master/summarization_model.ipynb) Deep NN for Sentence Salience Prediction & how it can lead to Extractive Summarization
 
 Dataset for sentences with labelled scores can be downloaded from [here](https://drive.google.com/file/d/1WpydthiqqUDYsWx7KqfA0-nlQ6XNZWz6/view?usp=sharing).
