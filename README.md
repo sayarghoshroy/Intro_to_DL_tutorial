@@ -1,5 +1,7 @@
 ## Introduction to Deep Learning Tutorials, Summer '20, '21
 
+- [Recorded sessions from summer 2021](https://web.microsoftstream.com/channel/6fd9affc-b350-47e8-bb5a-b4dd209f24ba) (Use your IIIT-H credentials for access)
+
 ### Intro to Deep Learning and Word Vectors
 
 > [Slides](https://docs.google.com/presentation/d/1KLXUDtq3OwYkcSmLKsl3ZirIj8eXJODS-razdfQVGeY/edit?usp=sharing)
